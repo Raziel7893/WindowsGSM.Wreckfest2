@@ -18,7 +18,7 @@ namespace WindowsGSM.Plugins
             name = "WindowsGSM.Wreckfest2", // WindowsGSM.XXXX
             author = "raziel7893",
             description = "WindowsGSM plugin for supporting Wreckfest2 Dedicated Server",
-            version = "1.0.2",
+            version = "1.0.0",
             url = "https://github.com/Raziel7893/WindowsGSM.Wreckfest2", // Github repository link (Best practice) TODO
             color = "#34FFeb" // Color Hex
         };
